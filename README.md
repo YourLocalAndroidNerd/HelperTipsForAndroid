@@ -7,6 +7,7 @@ To stop the annoying security scan while installing an apk on Xiaomi devices, ru
 pm uninstall -k --user 0 com.miui.global.packageinstaller
 this will not make you unable to install apps as there is already an installer for android : com.google.android.packageinstaller
 **I recommend using buge app manager if for some reason you want to restore the app later https://github.com/BugeStudioTeam/Buge-App-Manager/releases**
+
 *Tip 2 :*
 
 How to disable the android lockdown thing

@@ -35,3 +35,6 @@ then click the plus button then done!
 Tired of ads on YouTube, get morphe, basically just a patch app to remove ads and all that junk from other apps it's 
 completely free and it works like a charm just remember when the patched youtube gets an update YOU UPDATE! morphe.software
 
+*Tip 7:*
+An actual open source privacy respecting call blocker : https://fdroid.org/packages/com.cbouvat.android.saracroche/
+
